@@ -1,0 +1,12 @@
+
+nav.container.navbar.navbar-light.bg-light.menu {
+    justify-content: center;
+    border: 1px solid rgb(194, 185, 185);
+    width: 100%;
+}
+
+a:hover {
+    background-color: rgb(218, 210, 210);
+    border-radius: 10px;;
+    text-align: center;
+}
