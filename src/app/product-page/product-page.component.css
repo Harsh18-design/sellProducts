@@ -1,0 +1,16 @@
+.parent1 {
+position: relative;
+height: 100%; 
+width: 100%;
+}
+
+.child {
+    border: 2px solid black;
+    border-radius: 22px;
+    background-color: rgb(226, 222, 217);
+    float: left;
+    padding: 2% 0 2% 2%;
+    /* position: absolute; */
+    /* height: 30%;
+    width: 30%; */
+}
